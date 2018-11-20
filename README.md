@@ -1,5 +1,4 @@
 # cv1-
-<!DOCTYPE html>
 <html>
 <head>
 <title>My Resumes </title>
@@ -40,7 +39,6 @@ Email Address :fm790603@gmail.com <br>
 <h2>Languages:</h2>
 <ul><li>Arabic</li>
 <li>English </li>
-</ul>
 
 
 
@@ -49,8 +47,7 @@ Email Address :fm790603@gmail.com <br>
 
 
 
-</tr>
+
 
 </table>
-</body>
-</html>
+
