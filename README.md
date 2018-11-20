@@ -1,7 +1,6 @@
 # cv1-
 <html>
 <head>
-<title>My Resumes </title>
 </head>
 <body >
 <table bgcolor="#00ffff" border="1" aligen="center" width="60%">
